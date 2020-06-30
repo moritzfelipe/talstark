@@ -1,0 +1,13 @@
+#cover {
+  text-align: center;
+  padding: 0 1em;
+  height: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+body {
+  background-color: black;
+}
